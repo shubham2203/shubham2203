@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/7shubhamshah" target="blank"><img src="https://img.shields.io/twitter/follow/7shubhamshah?logo=twitter&style=for-the-badge" alt="7shubhamshah" /></a> </p>
 
-- 🔭 I’m currently working on **a Full Stack Website **
+- 🔭 I’m currently working on **a Full Stack Website**
 
 - 🌱 I’m currently learning **data structures & algorithms**
 
